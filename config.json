@@ -54,7 +54,7 @@
       "description": "We can clearly recommend this technology. We have used it for longer period of time in many teams and it has proven to be stable and useful.",
       "color": "#5cb449",
       "radius": 0.5,
-      "strokeWidth": 5
+      "strokeWidth": 2
     },
     {
       "id": "trial",
@@ -62,7 +62,7 @@
       "description": "We have used it with success and recommend to have a closer look at the technology in this ring. The goal of items here is to look at them more closely, with the goal to bring them to the adopt level.",
       "color": "#faa03d",
       "radius": 0.69,
-      "strokeWidth": 3
+      "strokeWidth": 2
     },
     {
       "id": "assess",
