@@ -1,4 +1,4 @@
-# How to use the AOE Technology Radar
+# Как использовать
 
 ### Introduction
 
