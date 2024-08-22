@@ -28,12 +28,6 @@
       "description": "Этот квадрант.",
       "color": "#84BFA4"
     },
-        {
-      "id": "languages-and-frameworks2",
-      "title": "Языки2",
-      "description": "Этот квадрант.",
-      "color": "#84BFA4"
-    },
     {
       "id": "methods-and-patterns",
       "title": "Methods & Patterns",
