@@ -24,7 +24,7 @@
   "quadrants": [
     {
       "id": "languages-and-frameworks",
-      "title": "Languages & Frameworks",
+      "title": "Языки",
       "description": "This quadrant includes programming languages (e.g., Java and Golang) and frameworks (e.g., React and Spring Boot) that are at the core of custom software development.",
       "color": "#84BFA4"
     },
