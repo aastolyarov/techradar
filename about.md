@@ -1,6 +1,6 @@
 # Как использовать
 
-### Introduction
+### Введение
 
 Technology is advancing rapidly, with new technologies and innovations constantly emerging.
 
